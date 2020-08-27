@@ -1,0 +1,6 @@
+framework module Pods_Sketch_It {
+  umbrella header "Pods-Sketch It-umbrella.h"
+
+  export *
+  module * { export * }
+}
